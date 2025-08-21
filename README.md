@@ -380,6 +380,6 @@ The new modern interface features:
 
 ---
 
-For more information, bug reports, or feature requests, please visit our [GitHub repository](https://github.com/your-username/noise-cancellation).
+For more information, bug reports, or feature requests, please visit our [GitHub repository](https://github.com/sammiykay/noise-cancellation).
 
 **✨ Noise Cancellation Studio v2.0** - Professional audio processing with modern design.
